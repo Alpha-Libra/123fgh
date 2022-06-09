@@ -1,0 +1,38 @@
+<Users>
+  <User>
+    <UserName>Admin</UserName>
+    <Password>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</Password>
+    <Email>post@example.com</Email>
+    <LastLoginTime>2007-12-05 20:46:40</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Administrator</UserName>
+    <Password>xEttmzacZjc5R7/bOprD5QhWskH9mQEgKlConZgCkCM=</Password>
+    <Email>administrator@mail.com</Email>
+    <LastLoginTime>2022-06-09 21:00:25</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Administrator2</UserName>
+    <Password>xEttmzacZjc5R7/bOprD5QhWskH9mQEgKlConZgCkCM=</Password>
+    <Email>administrator2@mail.com</Email>
+    <LastLoginTime>2022-06-09 21:00:25</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Administrator3</UserName>
+    <Password>xEttmzacZjc5R7/bOprD5QhWskH9mQEgKlConZgCkCM=</Password>
+    <Email>administrator3@mail.com</Email>
+    <LastLoginTime>2022-06-09 21:00:25</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Editor</UserName>
+    <Password>YFPLoDekjGeWd5kJiKNhvlB4MuPrYQ/f1k6foM8sWUs=</Password>
+    <Email>editor@mail.com</Email>
+    <LastLoginTime>2022-06-09 21:00:26</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Editor2</UserName>
+    <Password>YFPLoDekjGeWd5kJiKNhvlB4MuPrYQ/f1k6foM8sWUs=</Password>
+    <Email>editor2@mail.com</Email>
+    <LastLoginTime>2022-06-09 21:00:26</LastLoginTime>
+  </User>
+</Users>
